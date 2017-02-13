@@ -1,4 +1,13 @@
-# Ava-s-Traffic-Intersection
+# Traffic Light
+
+Wiring:
+
+<img width="770" alt="screenshot 2017-02-13 09 12 14" src="https://cloud.githubusercontent.com/assets/22894897/22891611/2c9dab42-f1cd-11e6-829d-225f646ee905.png">
+
+Simulator: https://circuits.io/circuits/3642162-semaforo-arduino
+
+
+# Ava's Traffic Intersection
 (Week 4):
 
 <img width="763" alt="screenshot 2017-02-10 10 54 37" src="https://cloud.githubusercontent.com/assets/22894897/22837781/5c92b02c-ef7f-11e6-998d-dff554c80a3c.png">
