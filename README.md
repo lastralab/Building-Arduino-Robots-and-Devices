@@ -41,7 +41,9 @@ Wiring:
 
 <img width="858" alt="screenshot 2017-02-12 22 09 27" src="https://cloud.githubusercontent.com/assets/22894897/22871636/f9f5580a-f16f-11e6-859c-548c69ba99ae.png">
 
+Schematics:
 
+<img width="1019" alt="screenshot 2017-02-13 09 43 57" src="https://cloud.githubusercontent.com/assets/22894897/22892790/f54eb3f8-f1d0-11e6-898d-559c49439271.png">
 
 
 
