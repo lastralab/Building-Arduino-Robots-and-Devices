@@ -7,6 +7,8 @@ Wiring:
 
 Simulator: https://circuits.io/circuits/3642162-semaforo-arduino
 
+![semaforo](https://cloud.githubusercontent.com/assets/22894897/22892687/acc32664-f1d0-11e6-973f-0ef7ccfbf4c6.gif)
+
 
 # Ava's Traffic Intersection
 (Week 4):
@@ -39,9 +41,9 @@ Wiring:
 
 <img width="858" alt="screenshot 2017-02-12 22 09 27" src="https://cloud.githubusercontent.com/assets/22894897/22871636/f9f5580a-f16f-11e6-859c-548c69ba99ae.png">
 
-![avas-iloveimg-compressed](https://cloud.githubusercontent.com/assets/22894897/22856418/3fb937d0-f04e-11e6-9f65-cebebc8bc6cc.gif)
 
-If you don't understand the video, you can check the whole thing here:
+
+
 
 Simulator: https://circuits.io/circuits/3973783-ava-s-traffic-intersection/edit#breadboard
 
