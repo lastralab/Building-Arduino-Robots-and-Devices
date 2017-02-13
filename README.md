@@ -43,7 +43,7 @@ Wiring:
 
 Schematics:
 
-<img width="1019" alt="screenshot 2017-02-13 09 43 57" src="https://cloud.githubusercontent.com/assets/22894897/22892790/f54eb3f8-f1d0-11e6-898d-559c49439271.png">
+<img width="1088" alt="screenshot 2017-02-13 09 48 36" src="https://cloud.githubusercontent.com/assets/22894897/22892986/a333ee02-f1d1-11e6-96b3-1d132a369e1d.png">
 
 
 
