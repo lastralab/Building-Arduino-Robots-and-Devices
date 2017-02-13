@@ -63,5 +63,5 @@ Wiring:
 <img width="991" alt="screenshot 2017-02-13 15 42 31" src="https://cloud.githubusercontent.com/assets/22894897/22906836/a30e75e6-f203-11e6-9e39-838de975d99c.png">
 
 
-<img width="991" alt="screenshot 2017-02-13 15 42 31" src="https://cloud.githubusercontent.com/assets/22894897/22906836/a30e75e6-f203-11e6-9e39-838de975d99c.png">
+Simulator: https://circuits.io/circuits/3973784-road-robot/edit
 
