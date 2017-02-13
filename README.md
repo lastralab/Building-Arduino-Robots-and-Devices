@@ -45,8 +45,8 @@ Schematics:
 
 <img width="1088" alt="screenshot 2017-02-13 09 48 36" src="https://cloud.githubusercontent.com/assets/22894897/22892986/a333ee02-f1d1-11e6-96b3-1d132a369e1d.png">
 
+![avas](https://cloud.githubusercontent.com/assets/22894897/22894632/f0f684f6-f1d6-11e6-856a-ccdddac89cad.gif)
 
-
-Simulator: https://circuits.io/circuits/3973783-ava-s-traffic-intersection/edit#breadboard
+any help is welcome at the Simulator: https://circuits.io/circuits/3973783-ava-s-traffic-intersection/edit#breadboard
 
 
