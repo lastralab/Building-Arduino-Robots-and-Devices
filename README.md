@@ -5,6 +5,10 @@ Wiring:
 
 <img width="770" alt="screenshot 2017-02-13 09 12 14" src="https://cloud.githubusercontent.com/assets/22894897/22891611/2c9dab42-f1cd-11e6-829d-225f646ee905.png">
 
+Schematics:
+
+<img width="951" alt="screenshot 2017-02-13 10 34 45" src="https://cloud.githubusercontent.com/assets/22894897/22894971/1176c082-f1d8-11e6-97c5-23aea8a8abf9.png">
+
 Simulator: https://circuits.io/circuits/3642162-semaforo-arduino
 
 ![semaforo](https://cloud.githubusercontent.com/assets/22894897/22892687/acc32664-f1d0-11e6-973f-0ef7ccfbf4c6.gif)
