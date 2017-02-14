@@ -66,7 +66,7 @@ Schematics:
 
 <img width="1135" alt="screenshot 2017-02-13 21 23 30" src="https://cloud.githubusercontent.com/assets/22894897/22915202/aee18780-f232-11e6-8754-7d3841fa9821.png">
 
-![coward](https://cloud.githubusercontent.com/assets/22894897/22915110/29b43a12-f232-11e6-88ed-811a7980a52a.gif)
+![coward](https://cloud.githubusercontent.com/assets/22894897/22916226/68c5fbac-f23a-11e6-936f-b752a4833cc2.gif)
 
-Simulator: https://circuits.io/circuits/3973784-road-robot/edit
+Simulator: https://circuits.io/circuits/3973784-road-robot/
 
