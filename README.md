@@ -13,6 +13,13 @@ Simulator: https://circuits.io/circuits/3642162-semaforo-arduino
 
 ![semaforo](https://cloud.githubusercontent.com/assets/22894897/22892687/acc32664-f1d0-11e6-973f-0ef7ccfbf4c6.gif)
 
+# Radar
+(Week 3)
+
+Buil a sonar using arduino, a servo, and a ping and visualize it as a radar with Processing.
+
+it deserved its own link:
+https://github.com/TaniaMol/ArduinoRadar
 
 # Ava's Traffic Intersection
 (Week 4):
