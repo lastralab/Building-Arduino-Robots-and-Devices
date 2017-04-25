@@ -16,7 +16,7 @@ Simulator: https://circuits.io/circuits/3642162-semaforo-arduino
 # Radar
 (Week 3)
 
-Buil a sonar using arduino, a servo, and a ping and visualize it as a radar with Processing.
+Build a sonar using arduino, a servo, and a ping and visualize it as a radar with Processing.
 
 it deserved its own link:
 https://github.com/TaniaMol/ArduinoRadar
