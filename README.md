@@ -18,7 +18,7 @@ Simulator: https://circuits.io/circuits/3642162-semaforo-arduino
 
 Build a sonar using arduino, a servo, and a ping and visualize it as a radar with Processing.
 
-it deserved its own link:
+it deserved its own repository:
 https://github.com/TaniaMol/ArduinoRadar
 
 # Ava's Traffic Intersection
