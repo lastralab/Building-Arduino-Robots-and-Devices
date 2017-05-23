@@ -9,6 +9,47 @@ Schematics:
 
 <div style="text-align:center"><img width="951" alt="screenshot 2017-02-13 10 34 45" src="https://cloud.githubusercontent.com/assets/22894897/22894971/1176c082-f1d8-11e6-97c5-23aea8a8abf9.png"></div>
 
+Code:
+
+```C++
+// the setup routine runs once when you press reset:
+void setup() {
+  // initialize the digital pin as an output.
+  pinMode(8, OUTPUT);
+  pinMode(10, OUTPUT);
+  pinMode(12, OUTPUT);
+  
+}
+
+void loop() {
+  digitalWrite(8, HIGH);   //red on
+  delay(5000);        //eight seconds       
+  digitalWrite(8, LOW);    //red off
+  digitalWrite(12, HIGH);    //green on           
+  delay(5000); //three seconds
+  digitalWrite(12, LOW); //green off
+  delay(500);
+  digitalWrite(12, HIGH); //green on
+  delay(500); //one second
+  digitalWrite(12, LOW); //green off
+  delay(500);
+  digitalWrite(12, HIGH); //green on
+  delay(500); //one second
+  digitalWrite(12, LOW); //green off
+  delay(500);
+  digitalWrite(12, HIGH); //green on
+  delay(500); // one sec
+  digitalWrite(12, LOW); //green off
+  digitalWrite(10, HIGH); //yellow on
+  delay(3000); //three sec
+  digitalWrite(10, LOW); //yellow off
+  //repeat from the beginning
+  
+                   
+  
+}
+```
+
 Simulator: https://circuits.io/circuits/3642162-semaforo-arduino
 
 <div style="text-align:center"><img src="https://cloud.githubusercontent.com/assets/22894897/22892687/acc32664-f1d0-11e6-973f-0ef7ccfbf4c6.gif"></div>
