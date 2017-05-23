@@ -97,8 +97,6 @@ Schematics:
 
 <div style="text-align:center"><img width="1088" alt="screenshot 2017-02-13 09 48 36" src="https://cloud.githubusercontent.com/assets/22894897/22892986/a333ee02-f1d1-11e6-96b3-1d132a369e1d.png"></div>
 
-<div style="text-align:center"><img src="https://cloud.githubusercontent.com/assets/22894897/22894632/f0f684f6-f1d6-11e6-856a-ccdddac89cad.gif"></div>
-
 Code that didn't work and you are welcome to suggest any improvements:
 
 ```C++
@@ -345,6 +343,8 @@ int Walker() {
   
 }
 ```
+
+<div style="text-align:center"><img src="https://cloud.githubusercontent.com/assets/22894897/22894632/f0f684f6-f1d6-11e6-856a-ccdddac89cad.gif"></div>
 
 Simulator: https://circuits.io/circuits/3973783-ava-s-traffic-intersection/edit#breadboard
 
