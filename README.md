@@ -49,8 +49,7 @@ void loop() {
   
 }
 ```
-
-Simulator: https://circuits.io/circuits/3642162-semaforo-arduino
+Demo:<br>
 
 <div style="text-align:center"><img src="https://cloud.githubusercontent.com/assets/22894897/22892687/acc32664-f1d0-11e6-973f-0ef7ccfbf4c6.gif"></div>
 
@@ -343,10 +342,8 @@ int Walker() {
   
 }
 ```
-
+Demo:<br>
 <div style="text-align:center"><img src="https://cloud.githubusercontent.com/assets/22894897/22894632/f0f684f6-f1d6-11e6-856a-ccdddac89cad.gif"></div>
-
-Simulator: https://circuits.io/circuits/3973783-ava-s-traffic-intersection/edit#breadboard
 
 # Coward Robot example
 (Week 5)
@@ -438,8 +435,7 @@ long microsecondsToCentimeters(long microseconds) {
   return microseconds / 29 / 2;
 }
 ```
-
+Demo:<br>
 <div style="text-align:center"><img src="https://cloud.githubusercontent.com/assets/22894897/22916363/4619335c-f23b-11e6-815d-a0d056923a6d.gif"></div>
 
-Simulator: https://circuits.io/circuits/3973784-road-robot/
 
