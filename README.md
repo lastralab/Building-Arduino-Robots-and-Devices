@@ -437,5 +437,6 @@ long microsecondsToCentimeters(long microseconds) {
 ```
 Demo:<br>
 <div style="text-align:center"><img src="https://cloud.githubusercontent.com/assets/22894897/22916363/4619335c-f23b-11e6-815d-a0d056923a6d.gif"></div>
+<br><br>
 
-
+<p align="center">Powered by <b>L'Astra Lab<b><br><a href="https://taniamol.github.io/website/" target="_blank"><button><img src="http://i.imgur.com/IvXPn8z.png" alt="l'astra lab icon" width="50px" background="transparent" opacity="0.5" padding="0;"/></button></a></p><br>
