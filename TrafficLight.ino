@@ -5,7 +5,7 @@
 // 
 // Semáforo Arduino
 // 
-// Made by Tania Melino
+// Author: Niam Moltta
 // License: MIT
 // Downloaded from: https://circuits.io/circuits/3642162-semaforo-arduino
 
